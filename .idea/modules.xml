@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/kind-boy.iml" filepath="$PROJECT_DIR$/.idea/kind-boy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kind-boy-parent/kind-boy-parent.iml" filepath="$PROJECT_DIR$/kind-boy-parent/kind-boy-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kind-boy-parent/kind-common/kind-common.iml" filepath="$PROJECT_DIR$/kind-boy-parent/kind-common/kind-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kind-boy-parent/kind-core/kind-core.iml" filepath="$PROJECT_DIR$/kind-boy-parent/kind-core/kind-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kind-boy-parent/kind-util/kind-util.iml" filepath="$PROJECT_DIR$/kind-boy-parent/kind-util/kind-util.iml" />
+    </modules>
+  </component>
+</project>
